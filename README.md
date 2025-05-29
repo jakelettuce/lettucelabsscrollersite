@@ -11,16 +11,16 @@ A simple web page that controls video playback based on the user's scroll positi
 
 ## Project Structure
 
-- `public/index.html` - The main HTML file
-- `public/video.mp4` - The video file (you need to provide this)
-- `src/style.css` - CSS styling for the page
-- `src/script.js` - JavaScript for scroll-based video control
+- `docs/index.html` - The main HTML file
+- `docs/video.mp4` - The video file (you need to provide this)
+- `docs/style.css` - CSS styling for the page
+- `docs/script.js` - JavaScript for scroll-based video control
 
 ## Setup
 
 1. Clone this repository
-2. Place your video file named `video.mp4` in the `public/` directory
-3. Open `public/index.html` in a web browser to test locally
+2. Place your video file named `video.mp4` in the `docs/` directory
+3. Open `docs/index.html` in a web browser to test locally
 
 ## Deploying to GitHub Pages
 
@@ -30,10 +30,10 @@ To deploy this project on GitHub Pages:
 2. Go to your repository settings on GitHub
 3. Scroll down to the "GitHub Pages" section
 4. Under "Source", select the branch you want to deploy (e.g., `main`)
-5. For "folder", select `/public` 
+5. For "folder", select `/docs` 
 6. Click "Save"
 
-GitHub Pages will now serve your site from the `/public` folder. After a few minutes, your site will be live at `https://[your-username].github.io/[repository-name]/`.
+GitHub Pages will now serve your site from the `/docs` folder. After a few minutes, your site will be live at `https://[your-username].github.io/[repository-name]/`.
 
 ## Customization
 
