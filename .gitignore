@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+package-lock.json
+
+# System files
+.DS_Store
+Thumbs.db
+.env
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~ 
